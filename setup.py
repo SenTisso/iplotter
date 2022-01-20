@@ -11,7 +11,7 @@ if __name__ == '__main__':
         description='JavaScript Charting for iPython/Jupyter notebooks',
         setup_requires=['setuptools-markdown'],
         long_description_markdown_filename='README.md',
-        url='https://github.com/niloch/iplotter',
+        url='https://github.com/sentisso/iplotter',
         author='csulliva',
         author_email='csulliva@brandeis.edu',
         license='MIT',
