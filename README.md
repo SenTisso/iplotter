@@ -33,7 +33,7 @@ iplotter is a simple package for generating interactive charts in ipython/jupyte
 ## Installation
 To install the most recent stable release run `pip install iplotter`.
 
-To install the latest version (fixed chart.js version) run `pip install git+git://github.com/sentisso/iplotter.git@master#egg=iplotter` or
+To install the latest version (fixed chart.js version) run `pip install git+https://github.com/sentisso/iplotter.git@master#egg=iplotter` or
 `git clone https://github.com/sentisso/iplotter.git` followed by `pip install -e iplotter/`
 
 <a name="c3js"></a>
